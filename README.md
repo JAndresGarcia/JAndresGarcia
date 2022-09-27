@@ -21,7 +21,14 @@
 
 - 📄 Conoce mi curriculum [https://drive.google.com/file/d/15qhVNLGPjxVYOzx5vMgDQeSgVpUVFhfZ/view?usp=sharing](https://drive.google.com/file/d/15qhVNLGPjxVYOzx5vMgDQeSgVpUVFhfZ/view?usp=sharing)
 
-- ⚡ Fun fact **Tech lover | Always learning | Water > Coffee | Music > All! | Gamer**
+- ⚡ Fun fact: 
+
+<ul> 
+  <li>**Tech lover |</li>
+  <li>Always learning | </li>
+  <li>Water > Coffee |</li>
+  <li>Music > All! | </li>
+  <li>Gamer**</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
