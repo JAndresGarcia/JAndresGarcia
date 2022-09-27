@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julián Andrés García Mosquera</h1>
-<h2 align="center">Fullstack Developer</h2>
+<h2 align="center">Fullstack Developer</h2> <br/>
 <h3 align="center">A passionate frontend developer from Quibdó - Colombia</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jandresgarcia" alt="jandresgarcia" /></a> </p>
