@@ -21,15 +21,19 @@
 
 - 📄 Conoce mi curriculum [https://drive.google.com/file/d/15qhVNLGPjxVYOzx5vMgDQeSgVpUVFhfZ/view?usp=sharing](https://drive.google.com/file/d/15qhVNLGPjxVYOzx5vMgDQeSgVpUVFhfZ/view?usp=sharing)
 
+- 💬 Spanish (Español) - Native. 
+- 💬 English - B2.
+
 - ⚡ Fun fact: 
 
 <ul> 
-  <li>**Tech lover |</li>
+  <li>Tech lover |</li>
   <li>Always learning | </li>
   <li>Water > Coffee |</li>
   <li>Music > All! | </li>
-  <li>Gamer**</li>
-
+  <li>Gamer</li>
+<ul/>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andresgamo7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andresgamo7" height="30" width="40" /></a>
