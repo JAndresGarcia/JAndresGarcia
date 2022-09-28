@@ -14,13 +14,19 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JAndresGarcia?tab=repositories](https://github.com/JAndresGarcia?tab=repositories)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ce9OzPF9-CLjD0h26IqOviAkgcKls8Ei/view?usp=sharing](https://drive.google.com/file/d/1ce9OzPF9-CLjD0h26IqOviAkgcKls8Ei/view?usp=sharing)
+
 
 - 💬 Ask me about **React, Javascript, API's**
 
+- 📄 CV English: [https://drive.google.com/file/d/1ce9OzPF9-CLjD0h26IqOviAkgcKls8Ei/view?usp=sharing](https://drive.google.com/file/d/1ce9OzPF9-CLjD0h26IqOviAkgcKls8Ei/view?usp=sharing)
+
+- 📄 CV Español: [https://drive.google.com/file/d/15qhVNLGPjxVYOzx5vMgDQeSgVpUVFhfZ/view?usp=sharing](https://drive.google.com/file/d/15qhVNLGPjxVYOzx5vMgDQeSgVpUVFhfZ/view?usp=sharing)
+
+
+
 - 📫 How to reach me **dressg7@gmail.com**
 
-- 📄 Conoce mi curriculum [https://drive.google.com/file/d/15qhVNLGPjxVYOzx5vMgDQeSgVpUVFhfZ/view?usp=sharing](https://drive.google.com/file/d/15qhVNLGPjxVYOzx5vMgDQeSgVpUVFhfZ/view?usp=sharing)
+
 
 - 💬 Spanish (Español) - Native. 
 - 💬 English - B2.
