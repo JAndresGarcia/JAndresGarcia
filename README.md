@@ -18,8 +18,8 @@
 
 - 💬 Ask me about **React, Javascript, API's**
 
-- 📄 CV English: <a src="https://drive.google.com/file/d/1ce9OzPF9-CLjD0h26IqOviAkgcKls8Ei/view?usp=sharing"/>Click Here!👨‍💻</a> 
-- 📄 CV Español: <a src="https://drive.google.com/file/d/15qhVNLGPjxVYOzx5vMgDQeSgVpUVFhfZ/view?usp=sharing">Click aqui!👋</a>
+- 📄 CV English: [Click Here!👨‍💻](https://drive.google.com/file/d/1ce9OzPF9-CLjD0h26IqOviAkgcKls8Ei/view?usp=sharing)
+- 📄 CV Español: [Click aqui!👋](https://drive.google.com/file/d/15qhVNLGPjxVYOzx5vMgDQeSgVpUVFhfZ/view?usp=sharing)
 
 
 
