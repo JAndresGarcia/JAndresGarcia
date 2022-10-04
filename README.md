@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking to help with **Any project you have!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JAndresGarcia?tab=repositories](https://github.com/JAndresGarcia?tab=repositories)
+- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/JAndresGarcia?tab=repositories)
 
 
 
