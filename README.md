@@ -2,7 +2,8 @@
 <h2 align="center">Fullstack Developer</h2>
 <h3 align="center">A passionate frontend developer from Quibdó - Colombia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jandresgarcia" alt="jandresgarcia" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jandresgarcia&rank=-C,-B&theme=monokai" alt="jandresgarcia" /></a>
+
 
 - 🔭 I’m currently working on **My own Portfolio!**
 
