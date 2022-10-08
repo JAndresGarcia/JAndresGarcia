@@ -2,7 +2,7 @@
 <h2 align="center">Fullstack Developer</h2>
 <h3 align="center">A passionate frontend developer from Quibdó - Colombia</h3>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jandresgarcia&&title=Repositories,Commits,PullRequest,Followers&no-bg=true&margin-w=15&theme=juicyfresh" alt="jandresgarcia" /></a>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jandresgarcia&&title=Repositories,Commits,PullRequest,Followers&no-bg=true&margin-w=15&theme=juicyfresh" alt="jandresgarcia" /></a>
 
 
 - 🔭 I’m currently working on **My own Portfolio!**
