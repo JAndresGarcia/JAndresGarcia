@@ -5,22 +5,22 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jandresgarcia&&title=Repositories,Commits,PullRequest,Followers&no-bg=true&margin-w=15&theme=juicyfresh" alt="jandresgarcia" /></a>
 
 
-- 🔭 I’m currently working on **My own Portfolio!**
+- 🔭 I’m currently working on **Curity Dedicated Internal Apps refactor!**
 
-- 🌱 I’m currently learning **Php, Node.js, Python, DataBases**
+- 🌱 I’m currently learning **Php, Ruby on Rails**
 
-- 👯 I’m looking to collaborate on [Kurius e-commerce Chocolates and Hey! Tickets](https://github.com/ItsMeRichArt/kuriuschocolate-ecommerce-webpage)
+- 👯 I’m looking to collaborate on [Kurius e-commerce Chocolates](https://kuriuschocolate.com/)
 
-- 🤝 I’m looking to help with **Any project you have!**
+- 🤝 My current personal project **Help the Medellin Community to learn tech skills!**
 
 - 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/JAndresGarcia?tab=repositories)
 
 
 
-- 💬 Ask me about **React, Javascript, API's**
+- 💬 Ask me about **General Tech, If I don't know, we always can learn about it together**
 
-- 📄 CV English: [Click Here!👨‍💻](https://drive.google.com/file/d/1ce9OzPF9-CLjD0h26IqOviAkgcKls8Ei/view?usp=sharing)
-- 📄 CV Español: [Click aqui!👋](https://drive.google.com/file/d/15qhVNLGPjxVYOzx5vMgDQeSgVpUVFhfZ/view?usp=sharing)
+- 📄 CV English: [Click Here!👨‍💻](https://drive.google.com/file/d/1kEiXywj5Y74ygyItDzzAU_9dg1VJTChU/view?usp=drive_link)
+- 📄 CV Español: [Click aqui!👋](https://drive.google.com/file/d/1kEiXywj5Y74ygyItDzzAU_9dg1VJTChU/view?usp=drive_link)
 
 
 
