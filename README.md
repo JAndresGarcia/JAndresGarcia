@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julián Andrés García Mosquera</h1>
 <h2 align="center">Fullstack Developer</h2>
-<h3 align="center">A passionate frontend developer from Quibdó - Colombia</h3>
+<h3 align="center">A passionate fullstack developer from Quibdó - Colombia</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jandresgarcia&&title=Repositories,Commits,PullRequest,Followers&no-bg=true&margin-w=15&theme=juicyfresh" alt="jandresgarcia" /></a>
 
@@ -13,11 +13,11 @@
 
 - 🤝 My current personal project **Help the Medellin Community to learn tech skills!**
 
-- 👨‍💻 All of my projects are available at [my GitHub repositories](https://github.com/JAndresGarcia?tab=repositories)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.jandresgarcia.dev/)
 
 
 
-- 💬 Ask me about **General Tech, If I don't know, we always can learn about it together**
+- 💬 Ask me about **General Tech, If I don't know, we can always learn about it together**
 
 - 📄 CV English: [Click Here!👨‍💻](https://drive.google.com/file/d/1kEiXywj5Y74ygyItDzzAU_9dg1VJTChU/view?usp=drive_link)
 - 📄 CV Español: [Click aqui!👋](https://drive.google.com/file/d/1kEiXywj5Y74ygyItDzzAU_9dg1VJTChU/view?usp=drive_link)
