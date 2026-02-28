@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Julián Andrés García Mosquera</h1>
-<h2 align="center">Fullstack Developer</h2>
-<h3 align="center">A passionate fullstack developer from Quibdó - Colombia</h3>
+<h1 align="center">Hey!, Julian Here</h1>
+<h2 align="center">Software Engineer (Fullstack)</h2>
+<h3 align="center">Transitioning to AI Engineer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jandresgarcia&&title=Repositories,Commits,PullRequest,Followers&no-bg=true&margin-w=15&theme=juicyfresh" alt="jandresgarcia" /></a>
 
 
-- 🔭 I’m currently working on **Curity Dedicated Internal Apps refactor!**
+- 🔭 I’m currently working on **EApply!** CV Optimizer powered by AI.
 
-- 🌱 I’m currently learning **Php, Ruby on Rails**
+- 🌱 I’m currently learning **LLMs, RAG, Vector DB, Prompt Optimization**
 
-- 👯 I’m looking to collaborate on [Kurius e-commerce Chocolates](https://kuriuschocolate.com/)
-
-- 🤝 My current personal project **Help the Medellin Community to learn tech skills!**
+- 🤝 My current personal project **EApply**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://www.jandresgarcia.dev/)
 
 
 
-- 💬 Ask me about **General Tech, If I don't know, we can always learn about it together**
+- 💬 Ask me about **General Tech, if I don't know, we can always learn about it together**
 
 - 📄 CV English: [Click Here!👨‍💻](https://drive.google.com/file/d/1kEiXywj5Y74ygyItDzzAU_9dg1VJTChU/view?usp=drive_link)
 - 📄 CV Español: [Click aqui!👋](https://drive.google.com/file/d/1kEiXywj5Y74ygyItDzzAU_9dg1VJTChU/view?usp=drive_link)
